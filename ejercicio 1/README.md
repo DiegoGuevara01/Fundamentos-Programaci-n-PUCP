@@ -1,6 +1,6 @@
 # Ejercicio 1: División de Polinomios
 
-Este programa calcula la división de dos polinomios complejos ($P(x)/Q(x)$) para tres valores diferentes de $x$.
+Este programa calcula la división de dos polinomios complejos (P(x)/Q(x)) para tres valores diferentes de x.
 
 ## Características técnicas:
 - **Uso de Librerías:** Implementación de `math.h` para cálculos de potencias y raíces.
