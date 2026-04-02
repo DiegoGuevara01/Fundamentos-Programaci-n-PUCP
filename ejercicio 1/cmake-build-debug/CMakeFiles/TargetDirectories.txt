@@ -1,0 +1,3 @@
+C:/Users/diego/Documents/PROYECTOS CLION/ejercicio 1/cmake-build-debug/CMakeFiles/ejercicio_1.dir
+C:/Users/diego/Documents/PROYECTOS CLION/ejercicio 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diego/Documents/PROYECTOS CLION/ejercicio 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

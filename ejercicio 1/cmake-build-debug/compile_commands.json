@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/diego/Documents/PROYECTOS CLION/ejercicio 1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\ejercicio_1.dir\\main.c.obj -c \"C:\\Users\\diego\\Documents\\PROYECTOS CLION\\ejercicio 1\\main.c\"",
+  "file": "C:/Users/diego/Documents/PROYECTOS CLION/ejercicio 1/main.c",
+  "output": "C:/Users/diego/Documents/PROYECTOS CLION/ejercicio 1/cmake-build-debug/CMakeFiles/ejercicio_1.dir/main.c.obj"
+}
+]
